@@ -1,16 +1,16 @@
 {
   "web": {
-    "version": "2.1.1",
-    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/web/web-2.1.1.zip",
-    "sha256": "1cad2f11e61841880be99b25cd1efbcc8c15493f557fde044b7cf6c484ed2209",
-    "minNativeCode": 18,
-    "notes": "Плашки дня прокручиваются вместе со списком, кнопка «Вернуть», ссылка Instagram в имени, автозавершение вчерашних записей"
+    "version": "2.2.0",
+    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/web/web-2.2.0.zip",
+    "sha256": "fec8286873b97eac34eb6433e74060c0c3769a7f89068911e77651eb309b801d",
+    "minNativeCode": 19,
+    "notes": "Новая иконка приложения — цветок"
   },
   "apk": {
-    "versionCode": 18,
-    "versionName": "2.1.0",
-    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/apk/Moi-Klienty-2.1.0.apk",
-    "notes": "Новая иконка и виджеты (можно на экран блокировки), клиент по ссылке Instagram, правки календаря и кнопки «Записать»"
+    "versionCode": 19,
+    "versionName": "2.2.0",
+    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/apk/Moi-Klienty-2.2.0.apk",
+    "notes": "Новая иконка приложения — цветок"
   },
-  "publishedAt": "2026-11-15T21:24:19.302Z"
+  "publishedAt": "2026-11-15T21:26:31.340Z"
 }
