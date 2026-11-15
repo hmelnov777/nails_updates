@@ -1,10 +1,10 @@
 {
   "web": {
-    "version": "2.1.0",
-    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/web/web-2.1.0.zip",
-    "sha256": "b4d1e48e6f7c08a73ac9bab1b9bebfcdfc37b5268eebd3b00ac7ad2b01358e58",
+    "version": "2.1.1",
+    "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/web/web-2.1.1.zip",
+    "sha256": "1cad2f11e61841880be99b25cd1efbcc8c15493f557fde044b7cf6c484ed2209",
     "minNativeCode": 18,
-    "notes": "Новая иконка и виджеты (можно на экран блокировки), клиент по ссылке Instagram, правки календаря и кнопки «Записать»"
+    "notes": "Плашки дня прокручиваются вместе со списком, кнопка «Вернуть», ссылка Instagram в имени, автозавершение вчерашних записей"
   },
   "apk": {
     "versionCode": 18,
@@ -12,5 +12,5 @@
     "url": "https://raw.githubusercontent.com/hmelnov777/nails_updates/main/apk/Moi-Klienty-2.1.0.apk",
     "notes": "Новая иконка и виджеты (можно на экран блокировки), клиент по ссылке Instagram, правки календаря и кнопки «Записать»"
   },
-  "publishedAt": "2026-11-15T18:21:54.321Z"
+  "publishedAt": "2026-11-15T21:24:19.302Z"
 }
